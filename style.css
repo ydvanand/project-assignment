@@ -1,0 +1,145 @@
+.logo h2 {
+    display: inline;
+    margin: 0 0 0 0;
+}
+
+.logo-img {
+    margin-bottom: 10px;
+}
+
+.nav-link {
+    padding-left: 7%;
+}
+
+.header {
+    height: 90vh;
+    background-image: url(./image/www.jpg);
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.head-title p {
+    font-size: 70px;
+    color: rgb(17, 13, 13);
+    display: inline-block;
+    width: 40%;
+
+
+}
+
+.head-content {
+    padding-bottom: 30%;
+
+}
+
+.head-btn {
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+}
+
+.head-btn-1 {}
+
+.sec-1-cont {
+    padding: 4% 17% 0;
+}
+
+.sec-1-cont .container h2 {
+    font-weight: 400;
+}
+
+.sec-1-cont .container hr {
+    color: rgb(238, 206, 44);
+    width: 100px;
+    height: 3px;
+
+}
+
+.conta {
+    margin-top: 10vh;
+    /* border: 2px solid red; */
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    height: 50vh;
+    align-items: center;
+    /* background-image: url(https://preview.colorlib.com/theme/pato/images/bg-intro-01.jpg.webp); */
+
+    color: black;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+/**.sec-2-1
+{
+    height: 75vh;
+    background-image: url(https://static.wixstatic.com/media/c837a6_ea5eeb99f72d42b0a22f459e01bfd33c~mv2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment:fixed; 
+}
+.sec-2-2-content
+{
+    padding: 25% 15% 5% 15%;
+}
+.sec-2-2 h2
+{
+    font-size: 40px;
+    font-weight: 600;
+    margin-bottom: 7%;
+}
+.sec-2-btn
+{
+    border: 0;
+    padding: 8px 20px 8px 20px;
+    color: whitesmoke;
+    background-color: rgb(31, 31, 31);
+    margin-top: 7%;
+}**/
+.nav-custom
+{
+    background-color: rgba(240, 248, 255, 0) !important;
+}
+.text-co {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 50px;
+    text-align: start;
+    padding: 10rem;
+
+}
+
+.text-co {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 50px;
+    text-align: start;
+    padding: 10rem;
+
+}
+
+.imagss img{
+ 
+    object-fit: cover;
+   
+    width:100%; 
+}
+.foters
+{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+.div
+{
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+
+    justify-content: space-between;
+    
+}
